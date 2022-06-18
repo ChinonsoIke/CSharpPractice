@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/bin/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/refint/WorkingWithNumbers.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/WorkingWithNumbers.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNumbers/obj/Debug/net5.0/ref/WorkingWithNumbers.dll

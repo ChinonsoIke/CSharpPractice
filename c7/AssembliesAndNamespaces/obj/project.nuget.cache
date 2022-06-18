@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ynYhg1oo+MUo7TKrc86oFi6DGLB1ZOp8acL/OQx5Gl2V5Rk9r0jGHp1yMCpZgH5B0uCem5S7mCssa3AQIB8VlA==",
+  "success": true,
+  "projectFilePath": "/Users/Noxx/Documents/demo/c7/AssembliesAndNamespaces/AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "/Users/Noxx/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/noxx.csdotnet.sharedlibrary/5.0.0/noxx.csdotnet.sharedlibrary.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/bin/Debug/net5.0/NoxxLibrary9.deps.json
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/bin/Debug/net5.0/NoxxLibrary9.dll
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/bin/Debug/net5.0/NoxxLibrary9.pdb
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.dll
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/refint/NoxxLibrary9.dll
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/NoxxLibrary9.pdb
+/Users/Noxx/Documents/demo/c5/NoxxLibrary9/obj/Debug/net5.0/ref/NoxxLibrary9.dll

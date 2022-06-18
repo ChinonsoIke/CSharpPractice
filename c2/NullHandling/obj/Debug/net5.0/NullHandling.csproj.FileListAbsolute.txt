@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling.deps.json
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.json
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling.dll
+/Users/Noxx/Documents/demo/c2/NullHandling/bin/Debug/net5.0/NullHandling.pdb
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.dll
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/refint/NullHandling.dll
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.pdb
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/NullHandling.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c2/NullHandling/obj/Debug/net5.0/ref/NullHandling.dll

@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/bin/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/refint/WorkingWithNetworkResources.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/WorkingWithNetworkResources.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithNetworkResources/obj/Debug/net5.0/ref/WorkingWithNetworkResources.dll

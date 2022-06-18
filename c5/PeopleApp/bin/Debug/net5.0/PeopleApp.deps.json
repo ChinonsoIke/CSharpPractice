@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PeopleApp/1.0.0": {
+        "dependencies": {
+          "NoxxLibrary": "1.0.0",
+          "NoxxLibrary9": "1.0.0"
+        },
+        "runtime": {
+          "PeopleApp.dll": {}
+        }
+      },
+      "NoxxLibrary/1.0.0": {
+        "runtime": {
+          "NoxxLibrary.dll": {}
+        }
+      },
+      "NoxxLibrary9/1.0.0": {
+        "runtime": {
+          "NoxxLibrary9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoxxLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoxxLibrary9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting.deps.json
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting.runtimeconfig.json
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting.dll
+/Users/Noxx/Documents/demo/c2/formatting/bin/Debug/net5.0/formatting.pdb
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.dll
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/refint/formatting.dll
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.pdb
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/formatting.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c2/formatting/obj/Debug/net5.0/ref/formatting.dll

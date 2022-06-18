@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/bin/Debug/net5.0/WorkingWithRegularExpressions.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/refint/WorkingWithRegularExpressions.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/WorkingWithRegularExpressions.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithRegularExpressions/obj/Debug/net5.0/ref/WorkingWithRegularExpressions.dll

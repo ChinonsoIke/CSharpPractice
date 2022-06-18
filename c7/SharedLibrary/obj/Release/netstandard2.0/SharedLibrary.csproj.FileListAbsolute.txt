@@ -1,0 +1,10 @@
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c7/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.deps.json
+/Users/Noxx/Documents/demo/c7/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.dll
+/Users/Noxx/Documents/demo/c7/SharedLibrary/bin/Release/netstandard2.0/SharedLibrary.pdb
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.dll
+/Users/Noxx/Documents/demo/c7/SharedLibrary/obj/Release/netstandard2.0/SharedLibrary.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCx/jrnPEft4Q/oT5OQGAPTWGu/RxAmABhfTSWL78wMjAAAO3ykx0oaU1l7WUmAQ0SvoTFP21fYXJ1Y3rpth3w==",
+  "success": true,
+  "projectFilePath": "/Users/Noxx/Documents/demo/c3/SelectionStatements/SelectionStatements.csproj",
+  "expectedPackageFiles": [
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/system.speech/6.0.0/system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

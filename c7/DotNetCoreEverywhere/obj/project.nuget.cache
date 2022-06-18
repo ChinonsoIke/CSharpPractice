@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNPZGfPv/xDPH5he5Gp9etNEeZUHmksOISE8Deg3wtKhWsA94DRmqa5hl9m1vE5VpNd3y/GGDj3tCWxjlBTHaw==",
+  "success": true,
+  "projectFilePath": "/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/DotNetCoreEverywhere.csproj",
+  "expectedPackageFiles": [
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.app.runtime.win-x64/5.0.17/microsoft.netcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/5.0.17/microsoft.netcore.app.runtime.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/5.0.17/microsoft.netcore.app.runtime.linux-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/5.0.17/microsoft.aspnetcore.app.runtime.win-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/5.0.17/microsoft.aspnetcore.app.runtime.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/5.0.17/microsoft.aspnetcore.app.runtime.linux-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.17/microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "/Users/Noxx/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

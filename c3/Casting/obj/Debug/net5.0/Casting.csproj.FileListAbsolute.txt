@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting.deps.json
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting.runtimeconfig.json
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting.dll
+/Users/Noxx/Documents/demo/c3/Casting/bin/Debug/net5.0/Casting.pdb
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.dll
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/refint/Casting.dll
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.pdb
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/Casting.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c3/Casting/obj/Debug/net5.0/ref/Casting.dll

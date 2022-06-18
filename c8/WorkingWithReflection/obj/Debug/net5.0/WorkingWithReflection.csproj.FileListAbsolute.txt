@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/bin/Debug/net5.0/WorkingWithReflection.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/refint/WorkingWithReflection.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/WorkingWithReflection.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithReflection/obj/Debug/net5.0/ref/WorkingWithReflection.dll

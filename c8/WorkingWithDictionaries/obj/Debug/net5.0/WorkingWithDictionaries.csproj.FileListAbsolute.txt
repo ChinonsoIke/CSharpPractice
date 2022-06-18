@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/bin/Debug/net5.0/WorkingWithDictionaries.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/refint/WorkingWithDictionaries.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/WorkingWithDictionaries.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithDictionaries/obj/Debug/net5.0/ref/WorkingWithDictionaries.dll

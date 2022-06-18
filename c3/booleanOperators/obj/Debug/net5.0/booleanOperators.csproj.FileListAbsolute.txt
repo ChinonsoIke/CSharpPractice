@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators.deps.json
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators.runtimeconfig.json
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators.dll
+/Users/Noxx/Documents/demo/c3/booleanOperators/bin/Debug/net5.0/booleanOperators.pdb
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.dll
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/refint/booleanOperators.dll
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.pdb
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/booleanOperators.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c3/booleanOperators/obj/Debug/net5.0/ref/booleanOperators.dll

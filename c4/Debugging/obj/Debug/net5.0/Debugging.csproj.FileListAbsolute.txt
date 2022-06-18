@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging.deps.json
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.json
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging.dll
+/Users/Noxx/Documents/demo/c4/Debugging/bin/Debug/net5.0/Debugging.pdb
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.dll
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/refint/Debugging.dll
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.pdb
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/Debugging.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c4/Debugging/obj/Debug/net5.0/ref/Debugging.dll

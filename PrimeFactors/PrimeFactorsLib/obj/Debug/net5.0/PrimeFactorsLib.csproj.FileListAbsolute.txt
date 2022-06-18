@@ -1,0 +1,12 @@
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.deps.json
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.dll
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/bin/Debug/net5.0/PrimeFactorsLib.pdb
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.dll
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/refint/PrimeFactorsLib.dll
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/PrimeFactorsLib.pdb
+/Users/Noxx/Documents/demo/PrimeFactors/PrimeFactorsLib/obj/Debug/net5.0/ref/PrimeFactorsLib.dll

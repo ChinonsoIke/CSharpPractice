@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.deps.json
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.runtimeconfig.json
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.dll
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/bin/Debug/net5.0/CheckingForOverflow.pdb
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.dll
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/refint/CheckingForOverflow.dll
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.pdb
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/CheckingForOverflow.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c3/CheckingForOverflow/obj/Debug/net5.0/ref/CheckingForOverflow.dll

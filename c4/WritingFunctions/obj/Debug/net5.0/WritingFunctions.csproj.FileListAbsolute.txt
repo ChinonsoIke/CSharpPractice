@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions.deps.json
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.json
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions.dll
+/Users/Noxx/Documents/demo/c4/WritingFunctions/bin/Debug/net5.0/WritingFunctions.pdb
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.dll
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/refint/WritingFunctions.dll
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.pdb
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/WritingFunctions.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c4/WritingFunctions/obj/Debug/net5.0/ref/WritingFunctions.dll

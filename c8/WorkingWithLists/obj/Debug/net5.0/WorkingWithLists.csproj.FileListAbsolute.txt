@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.deps.json
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.runtimeconfig.json
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/bin/Debug/net5.0/WorkingWithLists.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/refint/WorkingWithLists.dll
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.pdb
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/WorkingWithLists.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c8/WorkingWithLists/obj/Debug/net5.0/ref/WorkingWithLists.dll

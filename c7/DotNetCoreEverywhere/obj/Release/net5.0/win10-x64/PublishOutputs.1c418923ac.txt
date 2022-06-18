@@ -1,0 +1,6 @@
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/DotNetCoreEverywhere.pdb
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/clrcompression.dll
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/clrjit.dll
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/coreclr.dll
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/mscordaccore.dll
+/Users/Noxx/Documents/demo/c7/DotNetCoreEverywhere/bin/Release/net5.0/win10-x64/publish/DotNetCoreEverywhere.exe

@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AssembliesAndNamespaces/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Noxx.CSdotnet.SharedLibrary": "5.0.0"
+        },
+        "runtime": {
+          "AssembliesAndNamespaces.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "Noxx.CSdotnet.SharedLibrary/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SharedLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssembliesAndNamespaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "Noxx.CSdotnet.SharedLibrary/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8kWn0UPNBcsfT2r/mCF4p9RgLkKQ19njCIF690c4/r9DUiq/vzIxGfsMpIbXYCIU7KSAJpFtu/Xtg5GYkPEwfg==",
+      "path": "noxx.csdotnet.sharedlibrary/5.0.0",
+      "hashPath": "noxx.csdotnet.sharedlibrary.5.0.0.nupkg.sha512"
+    }
+  }
+}

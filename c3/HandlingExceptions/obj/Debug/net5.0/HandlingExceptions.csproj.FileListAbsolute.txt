@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.deps.json
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.json
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.dll
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/bin/Debug/net5.0/HandlingExceptions.pdb
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.dll
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/refint/HandlingExceptions.dll
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.pdb
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/HandlingExceptions.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/c3/HandlingExceptions/obj/Debug/net5.0/ref/HandlingExceptions.dll

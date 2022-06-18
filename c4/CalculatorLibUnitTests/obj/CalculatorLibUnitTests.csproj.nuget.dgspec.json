@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Noxx/Documents/demo/c4/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/Noxx/Documents/demo/c4/CalculatorLib/CalculatorLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Noxx/Documents/demo/c4/CalculatorLib/CalculatorLib.csproj",
+        "projectName": "CalculatorLib",
+        "projectPath": "/Users/Noxx/Documents/demo/c4/CalculatorLib/CalculatorLib.csproj",
+        "packagesPath": "/Users/Noxx/.nuget/packages/",
+        "outputPath": "/Users/Noxx/Documents/demo/c4/CalculatorLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Noxx/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Noxx/Documents/demo/c4/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Noxx/Documents/demo/c4/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj",
+        "projectName": "CalculatorLibUnitTests",
+        "projectPath": "/Users/Noxx/Documents/demo/c4/CalculatorLibUnitTests/CalculatorLibUnitTests.csproj",
+        "packagesPath": "/Users/Noxx/.nuget/packages/",
+        "outputPath": "/Users/Noxx/Documents/demo/c4/CalculatorLibUnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Noxx/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/Noxx/Documents/demo/c4/CalculatorLib/CalculatorLib.csproj": {
+                "projectPath": "/Users/Noxx/Documents/demo/c4/CalculatorLib/CalculatorLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

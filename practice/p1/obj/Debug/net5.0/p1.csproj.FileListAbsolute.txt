@@ -1,0 +1,16 @@
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1.deps.json
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1.runtimeconfig.json
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1.runtimeconfig.dev.json
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1.dll
+/Users/Noxx/Documents/demo/practice/p1/bin/Debug/net5.0/p1.pdb
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.csproj.AssemblyReference.cache
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.AssemblyInfoInputs.cache
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.AssemblyInfo.cs
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.csproj.CoreCompileInputs.cache
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.dll
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/refint/p1.dll
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.pdb
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/p1.genruntimeconfig.cache
+/Users/Noxx/Documents/demo/practice/p1/obj/Debug/net5.0/ref/p1.dll
